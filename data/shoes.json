@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "title": "STILLETO BEIGE NUDE",
+    "category": "Stilletos",
+    "price": 100.0,
+    "image": "imagenes/stilleto beige nude 1.png",
+    "description": "Stiletto beige nude de diseño refinado, ideal para eventos y ocasiones especiales.",
+    "features": [
+      "Colos: Nude con detalles en beige claro",
+      "Diseño: Tacón  ancho con punta en pico y tiras dinas cruzadas",
+      "Altura del tacon: 7 cm"
+    ]
+
+    ,
+    "images": [
+      "imagenes/stilleto beige nude portada.png",
+      "imagenes/stilleto beige nude 1.png"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "STILLETO MARRÓN",
+    "category": "Stilletos",
+    "price": 100.0,
+    "image": "imagenes/stilleto marron portada.png",
+    "description": "Stiletto en tono marrón con acabado elegante y suela resistente.",
+    "features": [
+      "Color: Marrón",
+      "Tacón: 8 cm",
+      "Material: Sintético con acabado premium",
+      "Cierre: Sin cierre (slip-on)",
+      "Uso: Ideal para oficina y eventos"
+    ]
+    ,
+    "images": [
+      "imagenes/stilleto marron portada.png",
+      "imagenes/stilleto marron 1.png"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "STILLETOS NEGRO CON LAZO",
+    "category": "Stilletos",
+    "price": 100.0,
+    "image": "imagenes/stilleto negro con lazo.png",
+    "description": "Stiletto negro con lazo decorativo en empeine, toque femenino y sofisticado.",
+    "features": [
+      "Color: Negro",
+      "Tacón: 8 cm",
+      "Detalle: Lazo decorativo en empeine",
+      "Material: Charol sintético",
+      "Plantilla acolchada"
+    ]
+    ,
+    "images": [
+      "imagenes/stilleto negro con lazo.png",
+      "imagenes/stilleto negro con lazo 1.png"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "BOTAS COLOR BLANCO",
+    "category": "Botas",
+    "price": 140.0,
+    "image": "imagenes/Imagenbo.png",
+    "description": "Bota en color blanco con corte moderno y detalle minimalista.",
+    "features": [
+      "Color: Blanco",
+      "Altura: Tobillo",
+      "Tacón: 7 cm",
+      "Material: Cuero sintético",
+      "Suela antideslizante"
+    ]
+    ,
+    "images": [
+      "imagenes/Imagenbo.png",
+      "imagenes/Imagen3.png"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "BOTIN URBANO",
+    "category": "Botas",
+    "price": 90.0,
+    "image": "imagenes/Imagenbo2.png",
+    "description": "Botín urbano de estilo contemporáneo, cómodo para el día a día.",
+    "features": [
+      "Color: Variantes disponibles",
+      "Tacón: 4 cm",
+      "Material: Gamuza sintética",
+      "Suela: Caucho antideslizante",
+      "Ideal para uso diario"
+    ]
+    ,
+    "images": [
+      "imagenes/Imagenbo2.png",
+      "imagenes/Imagen3.png"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "BOTIN NEGRO",
+    "category": "Botas",
+    "price": 140.0,
+    "image": "imagenes/bota cuero negro.png",
+    "description": "Botín negro con hebilla decorativa y tacón cómodo para combinar con looks formales o casuales.",
+    "features": [
+      "Color: Negro",
+      "Tacón: 6 cm",
+      "Detalle: Hebilla metálica decorativa",
+      "Material: Cuero sintético",
+      "Plantilla acolchada"
+    ]
+    ,
+    "images": [
+      "imagenes/bota cuero negro.png",
+      "imagenes/botas de cuero negro 1.png"
+    ]
+  }
+  ,
+  {
+    "id": 7,
+    "title": "BOTAS DE CUERO NEGRO",
+    "category": "Botas",
+    "price": 160.0,
+    "image": "imagenes/botas de cuero negro portada.png",
+    "description": "Botas de cuero negro con acabado premium, taco ancho y detalles metálicos.",
+    "features": [
+      "Color: Negro",
+      "Tacón: 7 cm (taco ancho)",
+      "Material: Cuero sintético premium",
+      "Detalle: Hebilla metálica dorada decorativa",
+      "Uso: Casual y ocasiones especiales"
+    ]
+    ,
+    "images": [
+      "imagenes/botas de cuero negro portada.png",
+      "imagenes/botas de cuero negro 1.png"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "BOTAS TIPO MEDIAS ROJO",
+    "category": "Botas",
+    "price": 140.0,
+    "image": "imagenes/botas tipo medias.png",
+    "description": "Botas tipo media en color rojo con corte ceñido al pie para un look estilizado.",
+    "features": [
+      "Color: Rojo",
+      "Material: Tejido elástico",
+      "Tacón: 6 cm",
+      "Ajuste: Ceñido al tobillo y pantorrilla",
+      "Cierre: Sin cierre (pull-on)"
+    ]
+    ,
+    "images": [
+      "imagenes/botas tipo medias.png",
+      "imagenes/botas tipo medias 1.png"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "BOTAS TIPO MEDIAS NEGRO",
+    "category": "Botas",
+    "price": 140.0,
+    "image": "imagenes/botas tipo medias 1.png",
+    "description": "Botas tipo media en color negro, elegante y con buen ajuste al pie.",
+    "features": [
+      "Color: Negro",
+      "Material: Tejido elástico",
+      "Tacón: 6 cm",
+      "Ajuste: Ceñido",
+      "Ideal para combinar con vestidos y jeans"
+    ]
+    ,
+    "images": [
+      "imagenes/botas tipo medias 1.png",
+      "imagenes/botas tipo medias.png"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "BOTA ALTA DE CUERO BEIGE",
+    "category": "Botas",
+    "price": 120.0,
+    "image": "imagenes/bota alta beige.webp",
+    "description": "Bota alta de cuero en tono beige, diseño clásico y tacón cómodo para uso prolongado.",
+    "features": [
+      "Color: Beige",
+      "Altura: Por encima de la pantorrilla",
+      "Tacón: 7 cm",
+      "Material: Cuero sintético",
+      "Cierre: Cremallera interior"
+    ]
+    ,
+    "images": [
+      "imagenes/bota alta beige.webp",
+      "imagenes/bota alta de cuero.webp"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "BOTA ALTA COLOR NEGRO",
+    "category": "Botas",
+    "price": 160.0,
+    "image": "imagenes/bota alta hasta la rodilla negra.webp",
+    "description": "Bota alta negra hasta la rodilla que estiliza la pierna y ofrece buen soporte.",
+    "features": [
+      "Color: Negro",
+      "Altura: Hasta la rodilla",
+      "Tacón: 7-8 cm",
+      "Material: Sintético premium",
+      "Forro: Textil cómodo"
+    ]
+    ,
+    "images": [
+      "imagenes/bota alta hasta la rodilla negra.webp",
+      "imagenes/bota alta de cuero.webp"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "BOTA ALTA DE CUERO NEGRO",
+    "category": "Botas",
+    "price": 140.0,
+    "image": "imagenes/bota alta de cuero.webp",
+    "description": "Bota alta de cuero negro con acabado premium y sujeción elegante.",
+    "features": [
+      "Color: Negro",
+      "Material: Cuero sintético con textura",
+      "Tacón: 7 cm",
+      "Detalle: Costuras decorativas",
+      "Uso: Casual y formal"
+    ]
+    ,
+    "images": [
+      "imagenes/bota alta de cuero.webp",
+      "imagenes/bota cuero negro.png"
+    ]
+  }
+]
